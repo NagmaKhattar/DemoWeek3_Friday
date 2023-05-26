@@ -6,6 +6,7 @@ package demoweekthree;
 
 /**
  * This is for demonstration in Week 3 showing fetch and merge
+ * Demonstration of pull
  * @author HP
  */
 public class DemoWeekThree {
